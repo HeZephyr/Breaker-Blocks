@@ -1,11 +1,3 @@
-'''
-开发项目：Block Breaker游戏
-开发者：贺志飞
-班级：软件开发191班
-学号：5720191408
-完成时间：2021.1.7
-'''
-
 import sys, time, random, math, pygame
 from pygame.locals import *
 from MyLibrary import *
